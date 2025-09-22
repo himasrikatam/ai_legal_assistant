@@ -1,8 +1,8 @@
+streamlit
+google-generativeai
 langchain
-langchain-core
-langchain-community
-pypdf
-pymupdf
-sentence-transformers
-faiss-cpu
+python-dotenv
+PyPDF2
 chromadb
+faiss-cpu
+langchain_google_genai

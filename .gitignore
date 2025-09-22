@@ -5,3 +5,4 @@ share
 venv
 pyvenv.cfg
 __pycache__
+.env
