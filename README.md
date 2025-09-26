@@ -31,5 +31,5 @@ Simply upload one or more PDFs, ask a question, and the app will return context-
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/chat-with-pdf.git
-   cd chat-with-pdf
+   git clone https://github.com/himasrikatam/ai_legal_assistant.git
+   cd ai_legal_assistant
